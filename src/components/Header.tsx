@@ -36,7 +36,3 @@ export default function Header() {
 		</Box>
 	);
 }
-
-function Logo() {
-	return <Typography sx={{ ml: "auto" }}>Logo</Typography>;
-}
