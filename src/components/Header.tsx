@@ -1,5 +1,5 @@
 import { Add, Language, Menu } from "@mui/icons-material";
-import { Avatar, Box, Button, IconButton, Link, Stack, Typography } from "@mui/material";
+import { Avatar, Box, Button, IconButton, Link, Stack } from "@mui/material";
 
 export default function Header() {
 	return (

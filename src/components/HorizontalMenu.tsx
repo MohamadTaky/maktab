@@ -1,6 +1,6 @@
 import { ChevronLeft, ChevronRight } from "@mui/icons-material";
 import { Box, Button, Stack, StackProps, styled } from "@mui/material";
-import { Children, useRef, useState } from "react";
+import { Children, useState } from "react";
 
 type FilterProps = StackProps;
 
