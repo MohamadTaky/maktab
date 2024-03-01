@@ -1,0 +1,52 @@
+[
+	{
+		"name": "عقار محمد",
+		"address": "الرياضز أم الحمام الشرقيز يزيد بن عبد الله",
+		"accepts": ["سنوي", "بالساعة", "شهري", "يومي"],
+		"price": 75000,
+		"pricePerDuration": "سنوي",
+		"images": [
+			{ "src": "/src/assets/images/image-1.jpg", "alt": "" },
+			{ "src": "/src/assets/images/image-2.jpg", "alt": "" }
+		],
+		"isFavourite": true
+	},
+	{
+		"name": "مكتب غزل",
+		"address": "الرياضز.العليا.الأمير عبدالله بن سعود بن فيصل",
+		"accepts": ["سنوي", "شهري", "يومي"],
+		"price": 74998,
+		"pricePerDuration": "سنوي",
+		"images": [
+			{ "src": "/src/assets/images/image-3.jpg", "alt": "" },
+			{ "src": "/src/assets/images/image-4.jpg", "alt": "" },
+			{ "src": "/src/assets/images/image-5.jpg", "alt": "" }
+		],
+		"isFavourite": true
+	},
+	{
+		"name": "مكتب أبو بسام",
+		"address": "الرياض.العليا.جبل نعام",
+		"accepts": ["بالساعة", "شهري", "يومي"],
+		"price": 5000,
+		"pricePerDuration": "شهري",
+		"images": [
+			{ "src": "/src/assets/images/image-6.jpg", "alt": "" },
+			{ "src": "/src/assets/images/image-7.jpg", "alt": "" },
+			{ "src": "/src/assets/images/image-8.jpg", "alt": "" }
+		],
+		"isFavourite": true
+	},
+	{
+		"name": "مكتب حنان",
+		"address": "الرياض.المعذر الشمالي.شارع موسى بن نصير",
+		"accepts": ["سنوي"],
+		"price": 100000,
+		"pricePerDuration": "سنوي",
+		"images": [
+			{ "src": "/src/assets/images/image-9.jpg", "alt": "" },
+			{ "src": "/src/assets/images/image-10.jpg", "alt": "" }
+		],
+		"isFavourite": true
+	}
+]
