@@ -1,6 +1,6 @@
 import { Grid } from "@mui/material";
 import ListItem from "./ListItem";
-import data from "../assets/data.json";
+import data from "../lib/data.json";
 
 export default function List() {
 	return (

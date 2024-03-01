@@ -1,7 +1,7 @@
 import { Contacts, Email, Facebook, Instagram, Language, Phone, Twitter } from "@mui/icons-material";
 import { Box, Grid, Link, Stack, Typography } from "@mui/material";
-import googlePlayBadge from "../assets/images/google-paly-badge.svg";
-import appStoreBadge from "../assets/images/app-store-badge.svg";
+import googlePlayBadge from "/assets/images/google-paly-badge.svg";
+import appStoreBadge from "/assets/images/app-store-badge.svg";
 
 export default function Footer() {
 	return (

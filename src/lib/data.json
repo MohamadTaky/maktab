@@ -6,8 +6,8 @@
 		"price": 75000,
 		"pricePerDuration": "سنوي",
 		"images": [
-			{ "src": "/src/assets/images/image-1.jpg", "alt": "" },
-			{ "src": "/src/assets/images/image-2.jpg", "alt": "" }
+			{ "src": "/assets/images/image-1.jpg", "alt": "" },
+			{ "src": "/assets/images/image-2.jpg", "alt": "" }
 		],
 		"isFavourite": true
 	},
@@ -18,9 +18,9 @@
 		"price": 74998,
 		"pricePerDuration": "سنوي",
 		"images": [
-			{ "src": "/src/assets/images/image-3.jpg", "alt": "" },
-			{ "src": "/src/assets/images/image-4.jpg", "alt": "" },
-			{ "src": "/src/assets/images/image-5.jpg", "alt": "" }
+			{ "src": "/assets/images/image-3.jpg", "alt": "" },
+			{ "src": "/assets/images/image-4.jpg", "alt": "" },
+			{ "src": "/assets/images/image-5.jpg", "alt": "" }
 		],
 		"isFavourite": true
 	},
@@ -31,9 +31,9 @@
 		"price": 5000,
 		"pricePerDuration": "شهري",
 		"images": [
-			{ "src": "/src/assets/images/image-6.jpg", "alt": "" },
-			{ "src": "/src/assets/images/image-7.jpg", "alt": "" },
-			{ "src": "/src/assets/images/image-8.jpg", "alt": "" }
+			{ "src": "/assets/images/image-6.jpg", "alt": "" },
+			{ "src": "/assets/images/image-7.jpg", "alt": "" },
+			{ "src": "/assets/images/image-8.jpg", "alt": "" }
 		],
 		"isFavourite": true
 	},
@@ -44,8 +44,8 @@
 		"price": 100000,
 		"pricePerDuration": "سنوي",
 		"images": [
-			{ "src": "/src/assets/images/image-9.jpg", "alt": "" },
-			{ "src": "/src/assets/images/image-10.jpg", "alt": "" }
+			{ "src": "/assets/images/image-9.jpg", "alt": "" },
+			{ "src": "/assets/images/image-10.jpg", "alt": "" }
 		],
 		"isFavourite": true
 	}
